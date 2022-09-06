@@ -1,0 +1,10 @@
+requests_oauthlib
+python-dotenv
+tweepy
+transpose-data==1.0.0
+plotly
+pandas
+kaleido
+english-words
+hatesonar
+scikit-learn

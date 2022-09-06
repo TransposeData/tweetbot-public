@@ -1,0 +1,12 @@
+env
+.env
+.DS_Store
+*/__pycache__/*
+__pycache__
+/images/*
+./pytest_cache/*
+./pytest_cache
+*.pyc
+
+data/*
+./data
